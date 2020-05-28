@@ -1,0 +1,109 @@
+﻿@model  IEnumerable<Web.Models.ResponseModel>
+
+@{
+    ViewBag.Title = "Liste Responses";
+
+}
+<p>
+    @Html.ActionLink("Add new response", "CreateResponse", new { id = Model.First().QuestionId, title_question = @Model.First().title_question })
+</p>
+
+<head>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="~/Scripts/jquery.star-rating-svg.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/star-rating-svg.css">
+
+
+</head>
+
+<table class="table">
+    <tr>
+       
+        <th>
+
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+      
+
+        <th>
+            @Html.DisplayNameFor(model => model.title_resp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.detail_resp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_resp)
+        </th>
+        
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+
+
+        <script>
+                     $(".my-rating-6").starRating({
+                         totalStars: 5,
+                         emptyColor: 'lightgray',
+                         hoverColor: 'salmon',
+                         activeColor: 'cornflowerblue',
+                         initialRating: localStorage.getItem(@item.ResponseId),
+                         strokeWidth: 0,
+                         useGradient: false,
+                         callback: function (currentRating, $el) {
+                             localStorage.setItem(@item.ResponseId, currentRating);
+                             console.log('DOM element ', $el);
+                         }
+                     });
+        </script>
+
+
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.username)
+            </td>
+         
+
+            <td>
+                @Html.DisplayFor(modelItem => item.title_resp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.detail_resp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date_resp)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Edit", "EditResponse", new { id = item.ResponseId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ResponseId }) |
+                @Html.ActionLink("Delete", "Delete","Responses", new { id = item.ResponseId },null)
+
+  
+                 <div class="my-rating-6"></div>
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script>
+                     $(".my-rating-6").starRating({
+                         totalStars: 5,
+                         emptyColor: 'lightgray',
+                         hoverColor: 'salmon',
+                         activeColor: 'cornflowerblue',
+                         initialRating: localStorage.getItem("rated"),
+                         strokeWidth: 0,
+                         useGradient: false,
+                         callback: function (currentRating, $el) {
+                             localStorage.setItem("rated", currentRating);
+                             console.log('DOM element ', $el);
+                         }
+                     });
+</script> 

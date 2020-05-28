@@ -1,0 +1,59 @@
+﻿@model Web.Models.QuestionModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Question</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.title_question)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.title_question)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.detail_question)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.detail_question)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.date_question)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date_question)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.categories)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.categories)
+        </dd>
+
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Add Response", "CreateResponse", new { id = Model.QuestionId }) | @Html.ActionLink("Edit", "Edit", new { id = Model.QuestionId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

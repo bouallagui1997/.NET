@@ -1,0 +1,91 @@
+﻿@model Domaine.Response
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+    <h4>Response</h4>
+    <hr />
+  
+
+        <div class="panel panel-default">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+
+
+                    <h5>title of question</h5>
+                </div>
+
+
+
+                <div class="panel-body">
+                    @Html.DisplayFor(model => model.Question.title_question)
+
+                </div>
+
+            </div>
+
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+
+                    <h5>title of response</h5>
+                </div>
+                <div class="panel-body">
+                    @Html.DisplayFor(model => model.title_resp)
+
+                </div>
+
+            </div>
+
+
+
+
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+
+                    <h5>detail of response</h5>
+                </div>
+
+
+                <div class="panel-body">
+                    @Html.DisplayFor(model => model.detail_resp)
+
+                </div>
+
+            </div>
+
+
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+
+                    <h5>date of response</h5>
+                </div>
+
+
+                <div class="panel-body">
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-calendar"></span>
+
+                        @Html.DisplayFor(model => model.date_resp)
+                        </button>
+            </div>
+
+            </div>
+
+</div>
+<p>
+    <button type="button" class="btn btn-default">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ResponseId })
+        
+    </button>
+
+    <button type="button" class="btn btn-default">
+        @Html.ActionLink("Back to List of Questions ", "Index", "Questions", null, null)
+        </button>
+</p>

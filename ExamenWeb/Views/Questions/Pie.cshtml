@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "~/Views/Shared/_myTemplate.cshtml";
+  
+}
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <script>
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	theme: "light1", // "light1", "light2", "dark1", "dark2"
+	exportEnabled: true,
+	animationEnabled: true,
+	title: {
+		text: "Classification of Questions by category"
+	},
+
+	data: [{
+		type: "pie",
+		startAngle: 180,
+		toolTipContent: "<b>{label}</b>: {y}%",
+		showInLegend: "true",
+		legendText: "{label}",
+		indexLabel: "{label} - {y}%",
+		dataPoints: @Html.Raw(ViewBag.DataPoints) }]
+});
+chart.render();
+
+}
+    </script>
+</head>
+<body>
+    <button type="button" class="btn btn-default">
+
+        @Html.ActionLink(" back to Questions", "Index", null, null)
+    </button>
+
+    <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>        

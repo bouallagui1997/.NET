@@ -1,0 +1,90 @@
+﻿@model  IEnumerable<Web.Models.QuestionModel>
+
+@{
+    ViewBag.Title = "";
+    
+}
+
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "createQuestion")
+</p>
+
+@using (Html.BeginForm("Index", "Questions", FormMethod.Post))
+{
+    <div>
+        search by title @Html.TextBox("title")
+      
+        <input id="Submit1" type="submit" value="Filter by title" />
+    <br />
+   
+                 search by category2 :
+         <select class="form-control" id="category" name="category">
+            <option></option>
+            <option>Product</option>
+            <option>Technical</option>
+            <option>Service</option>
+            <option>Finance</option>
+        </select>
+
+        <input id="Submit2" type="submit" value="filter by category" />
+    </div>
+
+
+}
+<table class="table">
+    
+    <tr>
+        <th>
+
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+        <th>
+          @Html.ActionLink("Title Question", "Index", new { sortOrder = ViewBag.TitleSortParm })
+        </th>
+
+        <th>
+            @Html.ActionLink("Date Question", "Index", new { sortOrder = ViewBag.DateSortParm })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.categories)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.username)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.title_question)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.date_question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.categories)
+            </td>
+            <td>
+                @Html.ActionLink("Check list Response", "ListResponse", new { id = item.QuestionId, title_question = item.title_question })
+
+                @Html.ActionLink("Edit", "Edit", new { id = item.QuestionId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.QuestionId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.QuestionId })
+             
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    @Html.ActionLink("Pie chart Statistics", "Pie", null, null)
+</div>
+<div>
+    @Html.ActionLink("bar chart Statistics", "Bar", null, null)
+</div>

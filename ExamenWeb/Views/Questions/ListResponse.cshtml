@@ -1,0 +1,120 @@
+﻿@model  IEnumerable<Web.Models.ResponseModel>
+
+@{
+    ViewBag.Title = "Liste Responses";
+
+}
+
+
+<head>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="~/Scripts/jquery.star-rating-svg.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/star-rating-svg.css">
+
+
+</head>
+
+<h2>List of Responses</h2>
+
+ 
+
+    @foreach (var item in Model)
+    {
+
+
+
+        <script>
+                     $(".my-rating-6").starRating({
+                         totalStars: 5,
+                         emptyColor: 'lightgray',
+                         hoverColor: 'salmon',
+                         activeColor: 'cornflowerblue',
+
+                         initialRating: localStorage.getItem(@item.ResponseId),
+                       
+                         strokeWidth: 0,
+                         useGradient: false,
+                         callback: function (currentRating, $el) {
+                             localStorage.setItem(@item.ResponseId, currentRating);
+                             console.log('DOM element ', $el);
+                         }
+                     });
+        </script>
+
+
+        <br />
+        <div class="panel panel-default">
+
+
+            <div class="panel-heading">
+
+               
+             
+
+                <h4> @Html.DisplayFor(modelItem => item.title_resp) </h4>           
+            
+            </div>
+            <div class="panel-body">
+            
+                @Html.DisplayFor(modelItem => item.detail_resp)
+
+                <br />
+                <br />
+
+                <button type="button" class="btn btn-default btn-sm">
+                    <span class="glyphicon glyphicon-calendar"></span> 
+                    @Html.DisplayFor(modelItem => item.date_resp)
+                </button>
+
+
+                <button type="button" class="btn btn-default btn-sm">
+                    <span class="glyphicon glyphicon-user"></span>
+                    @Html.DisplayFor(modelItem => item.username)
+                </button>
+             
+                <button type="button" class="btn btn-default">
+                    @Html.ActionLink("Edit", "EditResponse", new { id = item.ResponseId }) 
+                    </button>
+                <button type="button" class="btn btn-default">
+                    @Html.ActionLink("Details", "Details", "Responses", new { id = item.ResponseId },null) 
+                    </button>
+                <button type="button" class="btn btn-default">
+                    @Html.ActionLink("Delete", "Delete", "Responses", new { id = item.ResponseId }, null)
+                    </button>
+
+
+</div>
+
+           
+
+            rate this response
+                <div class="my-rating-6">
+                </div>
+
+            
+      </div>
+    }
+
+
+
+
+<button type="button" class="btn btn-default">
+    @Html.ActionLink("Add new response", "CreateResponse", new { id = Model.First().QuestionId, title_question = @Model.First().title_question })
+    </button>
+
+    <script>
+        $(".my-rating-6").starRating({
+            totalStars: 5,
+            emptyColor: 'lightgray',
+            hoverColor: 'salmon',
+            activeColor: 'cornflowerblue',
+            initialRating: localStorage.getItem("rated"),
+            strokeWidth: 0,
+            useGradient: false,
+            callback: function (currentRating, $el) {
+                localStorage.setItem("rated", currentRating);
+                console.log('DOM element ', $el);
+            }
+        });
+    </script>

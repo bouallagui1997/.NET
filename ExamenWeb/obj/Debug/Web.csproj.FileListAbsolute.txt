@@ -1,0 +1,442 @@
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\ApplicationInsights.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\csc.exe
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\vbc.exe
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\ExamenWeb.dll.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Antlr3.Runtime.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Data.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Domaine.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\EntityFramework.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.Web.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Newtonsoft.Json.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Owin.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Service.Pattern.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Services.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Helpers.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Mvc.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Optimization.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Razor.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\WebGrease.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Data.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Domaine.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Service.Pattern.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Services.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\EntityFramework.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.Web.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Helpers.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Mvc.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Optimization.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.Razor.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Antlr3.Runtime.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Newtonsoft.Json.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\ExamenWeb\obj\Debug\ExamenWeb.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\ApplicationInsights.config
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\csc.exe
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\vbc.exe
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.dll.config
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Antlr3.Runtime.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Data.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Domaine.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Web.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Newtonsoft.Json.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Owin.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Service.Pattern.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Services.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Helpers.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Mvc.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Optimization.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Razor.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\WebGrease.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Data.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Domaine.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Service.Pattern.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Services.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Web.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Helpers.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Mvc.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Optimization.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Razor.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Antlr3.Runtime.pdb
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Newtonsoft.Json.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\ExamenWeb.dll
+E:\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\ExamenWeb.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\ApplicationInsights.config
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\csc.exe
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\vbc.exe
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.dll.config
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\ExamenWeb.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Antlr3.Runtime.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Data.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Domaine.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Web.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Newtonsoft.Json.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Owin.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Service.Pattern.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Services.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Helpers.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Mvc.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Optimization.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Razor.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\WebGrease.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Data.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Domaine.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Service.Pattern.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Services.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.Web.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Helpers.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Mvc.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Optimization.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.Razor.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Antlr3.Runtime.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Newtonsoft.Json.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\ExamenWeb.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\obj\Debug\ExamenWeb.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\ExamenWeb\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\ApplicationInsights.config
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\csc.exe
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\vbc.exe
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\VBCSCompiler.exe
+E:\piCRMfORUM\ExamenWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\piCRMfORUM\ExamenWeb\bin\ExamenWeb.dll.config
+E:\piCRMfORUM\ExamenWeb\bin\ExamenWeb.dll
+E:\piCRMfORUM\ExamenWeb\bin\ExamenWeb.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Antlr3.Runtime.dll
+E:\piCRMfORUM\ExamenWeb\bin\Data.dll
+E:\piCRMfORUM\ExamenWeb\bin\Domaine.dll
+E:\piCRMfORUM\ExamenWeb\bin\EntityFramework.dll
+E:\piCRMfORUM\ExamenWeb\bin\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.Web.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.ApplicationInsights.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\piCRMfORUM\ExamenWeb\bin\Newtonsoft.Json.dll
+E:\piCRMfORUM\ExamenWeb\bin\Owin.dll
+E:\piCRMfORUM\ExamenWeb\bin\Service.Pattern.dll
+E:\piCRMfORUM\ExamenWeb\bin\Services.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Helpers.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Mvc.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Optimization.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Razor.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.Deployment.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.dll
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.Razor.dll
+E:\piCRMfORUM\ExamenWeb\bin\WebGrease.dll
+E:\piCRMfORUM\ExamenWeb\bin\Data.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Domaine.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Service.Pattern.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Services.pdb
+E:\piCRMfORUM\ExamenWeb\bin\EntityFramework.xml
+E:\piCRMfORUM\ExamenWeb\bin\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.Web.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.ApplicationInsights.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Helpers.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Mvc.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Optimization.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.Razor.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.Deployment.xml
+E:\piCRMfORUM\ExamenWeb\bin\System.Web.WebPages.Razor.xml
+E:\piCRMfORUM\ExamenWeb\bin\Antlr3.Runtime.pdb
+E:\piCRMfORUM\ExamenWeb\bin\Newtonsoft.Json.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\piCRMfORUM\ExamenWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.Helpers.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.Mvc.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.Optimization.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.Razor.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.WebPages.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\piCRMfORUM\ExamenWeb\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\piCRMfORUM\ExamenWeb\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\ExamenWeb\obj\Debug\ExamenWeb.dll
+E:\piCRMfORUM\ExamenWeb\obj\Debug\ExamenWeb.pdb

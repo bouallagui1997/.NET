@@ -1,0 +1,47 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\Domaine.dll.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\obj\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Domaine\obj\Debug\Domaine.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\Domaine.dll.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\Domaine.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\Domaine.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\EntityFramework.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\EntityFramework.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\obj\Debug\Domaine.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Domaine\obj\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\Domaine.dll.config
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMForum\Domaine\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\piCRMForum\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMForum\Domaine\obj\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMForum\Domaine\obj\Debug\Domaine.pdb
+E:\piCRMfORUM\Domaine\bin\Debug\Domaine.dll.config
+E:\piCRMfORUM\Domaine\bin\Debug\Domaine.dll
+E:\piCRMfORUM\Domaine\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\Domaine\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\Domaine\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\Domaine\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\Domaine\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\Domaine\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\Domaine\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\Domaine\obj\Debug\Domaine.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\Domaine\obj\Debug\Domaine.dll
+E:\piCRMfORUM\Domaine\obj\Debug\Domaine.pdb

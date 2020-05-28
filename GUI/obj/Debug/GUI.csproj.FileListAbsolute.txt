@@ -1,0 +1,80 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\GUI.exe.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\GUI.exe
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\GUI.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Service.Pattern.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Services.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Service.Pattern.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Services.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\Data.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\obj\Debug\GUI.exe
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\GUI\obj\Debug\GUI.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\GUI.exe.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\GUI.exe
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\GUI.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Domaine.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\EntityFramework.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Service.Pattern.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Services.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Data.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Domaine.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Service.Pattern.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Services.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\EntityFramework.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\Data.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\obj\Debug\GUI.exe
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\GUI\obj\Debug\GUI.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.exe.config
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.exe
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Service.Pattern.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Services.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Data.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Service.Pattern.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Services.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\Data.pdb
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMForum\GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.exe
+E:\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.exe.config
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.exe
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\GUI.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Service.Pattern.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Services.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Data.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Service.Pattern.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Services.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\Data.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.exe
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\GUI\obj\Debug\GUI.pdb

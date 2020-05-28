@@ -1,0 +1,73 @@
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.dll.config
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Data.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Domaine.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\Domaine.pdb
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.dll
+c:\users\bouyo\documents\visual studio 2015\Projects\Examen\Data\obj\Debug\Data.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\Data.dll.config
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\Data.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\Data.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\Domaine.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\EntityFramework.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\Domaine.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\EntityFramework.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.dll
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.pdb
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.Migrations.initial.resources
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.Migrations.QUESTION1.resources
+C:\Users\abbes\Documents\Visual Studio 2015\Projects\piCRM\piCRM\Data\obj\Debug\Data.Migrations.user1.resources
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.dll.config
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.dll
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.pdb
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMForum\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.initial.resources
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.QUESTION1.resources
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.user1.resources
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.dll
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.pdb
+E:\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.updateModel1.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.dll.config
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\Data.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\Domaine.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\Domaine.pdb
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\fr\EntityFramework.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.initial.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.QUESTION1.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.user1.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.Migrations.updateModel1.resources
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.dll
+E:\piCRMfORUM\piCRMfORUM\piCRMForum\Data\obj\Debug\Data.pdb
